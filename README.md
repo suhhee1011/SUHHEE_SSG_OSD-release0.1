@@ -4,6 +4,11 @@ This is an html generator from text file to html.
 # Technology used
 +  Node.js
 
+# License Used
++ MIT License
+
+# Created by
++ Suhhee Kim
 
 # Before Use You need to do
 1. Download or clone the code.<br>
